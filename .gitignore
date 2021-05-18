@@ -138,3 +138,4 @@ dmypy.json
 cython_debug/
 .vscode/settings.json
 Notebooks/02_data_wrangling_backup.ipynb
+Notebooks/03_exploratory_data_analysis_backup.ipynb
